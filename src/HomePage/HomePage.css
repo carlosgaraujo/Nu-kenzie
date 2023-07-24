@@ -1,0 +1,10 @@
+.section__body {
+  background-color: rgb(255, 255, 255);
+  height: 100vh;
+}
+
+@media (max-width: 1024px) {
+  .section__body {
+    height: 100%;
+  }
+}

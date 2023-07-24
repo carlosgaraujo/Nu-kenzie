@@ -1,0 +1,43 @@
+.totalMoney {
+  padding-top: 10px;
+  width: 363px;
+  height: 96px;
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+}
+
+.totalMoney > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.totalMoney > div > p {
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+ 
+  color: #343a40;
+}
+.totalMoney > div > span {
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fd377e;
+}
+
+.totalMoney > span {
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+
+  color: #343a40;
+  padding: 0 20px;
+}
